@@ -1,0 +1,5 @@
+Blackbox test design technique:
+  1. ECP
+  2. BVA
+  3. Decision tree
+  4. State transition
