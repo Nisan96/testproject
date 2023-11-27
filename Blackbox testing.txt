@@ -3,3 +3,4 @@ Blackbox test design technique:
   2. BVA
   3. Decision tree
   4. State transition
+  5. Error guessing
